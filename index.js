@@ -11,7 +11,7 @@ function getMaps() {
 }
 
 app.get("/", async function (request, response) {
-  const maps = awaiat getMaps()
+  const maps = await getMaps()
   response.send(maps);
 })
 
