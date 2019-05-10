@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karibeari/recommender_maps_server.git"
+    "url": "https://github.com/karibeari/recommender_maps_server.git"
   },
   "author": "Kari Ferenczy",
   "license": "ISC",
