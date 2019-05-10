@@ -1,0 +1,22 @@
+{
+  "name": "recommender_maps_server",
+  "version": "1.0.0",
+  "description": "express server for google maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karibeari/recommender_maps_server.git"
+  },
+  "author": "Kari Ferenczy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karibeari/recommender_maps_server/issues"
+  },
+  "homepage": "https://github.com/karibeari/recommender_maps_server#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
